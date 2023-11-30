@@ -14,3 +14,5 @@ First steps with devOps
 Creation of index.js, package.json and CHANGELOG.md files
 Installing express
 Installing nodeJs
+
+## Lab 2 testing by modifying a file 
